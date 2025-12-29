@@ -100,12 +100,12 @@ To work in a professional development environment where I can:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amro234&theme=codeSTACKr&hide_border=false&layout=compact)
 
 </div>
+
 ---
+
 ### ✍️ Random Dev Quote
 
-<div align="center">
-  [!](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
