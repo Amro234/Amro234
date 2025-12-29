@@ -118,16 +118,6 @@ To work in a professional development environment where I can:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Amro234&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
 ## ✍️ Random Dev Quote
 
 <div align="center">
