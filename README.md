@@ -104,9 +104,9 @@ To work in a professional development environment where I can:
 ---
 
 ### ✍️ Random Dev Quote
-
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+</div>
 ---
 
 ### 🔝 Top Contributed Repositories
