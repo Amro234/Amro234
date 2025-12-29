@@ -104,7 +104,7 @@ To work in a professional development environment where I can:
 ### ✍️ Random Dev Quote
 
 <div align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  [!](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
 ---
@@ -114,13 +114,6 @@ To work in a professional development environment where I can:
 <div align="center">
 
   ![](https://github-contributor-stats.vercel.app/api?username=Amro234&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
----
-
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=Amro234&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
